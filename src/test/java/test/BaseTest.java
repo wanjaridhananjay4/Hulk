@@ -46,6 +46,8 @@ public class BaseTest {
 	@Test
 	public void f() {
 		System.out.println("this is my new TEST");
+		
+		System.out.println("my name is khan");
 		//this my new test.
 	}
 	
